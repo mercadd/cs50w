@@ -1,0 +1,15 @@
+#title {
+    color:rgb(223, 31, 227);
+    text-align: center;
+}
+#subtitle {
+    color: pink;
+    text-align: center;
+}
+
+.line {
+    color:rgb(31, 227, 41);
+}
+body {
+    font-family: 'Courier New', Courier, monospace
+}
